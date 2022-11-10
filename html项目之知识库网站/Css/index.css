@@ -1,0 +1,41 @@
+.jieshao{/*介绍div*/
+    height: 250px;
+    width: 400px;
+    background-color: white;
+    border: 5px solid black;
+}
+.ico{ /*图标*/
+    height: 50px;
+    width: 50px;
+    left: 1024px;
+}
+html{
+    height: 200vh;
+} 
+nav{
+    height: 20px;
+    background-color: white;
+}
+main{
+    background-color: black;
+    height: 200vh;
+}
+/* p{
+    color: white;
+}
+h1{
+    color: white;
+}
+h4{
+    color: white;
+} */
+a{
+    text-decoration:none;
+}
+.nav{
+    color: black;
+}
+.ZS{
+    background-color: white;
+    height: 300px;
+}
